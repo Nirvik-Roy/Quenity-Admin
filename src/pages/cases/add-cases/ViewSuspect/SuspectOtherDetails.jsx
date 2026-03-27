@@ -88,7 +88,7 @@ const SuspectOtherDetails = () => {
             }}>
                 <WizardSection
                     iconBg="#F0D9FF"
-                    icon={<img src="/public/Container (1).svg" alt="" />}
+                    icon={<img src="/Container (1).svg" alt="" />}
                     title="Identifying info"
                     subtitle="When & where it happened"
                 >
